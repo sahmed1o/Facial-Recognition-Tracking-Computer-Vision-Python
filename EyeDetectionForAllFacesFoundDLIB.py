@@ -71,7 +71,7 @@ while True:
         cv2.rectangle(frame, (right_eye1x-40,right_eye1y-20), (right_eye2x+40,right_eye2y+20), (0,255,0), 2)
         cv2.putText(frame, 'Coord('+str(right_eye1x)+','+str(right_eye1y)+')', (right_eye1x-60, right_eye1y+60), cv2.FONT_HERSHEY_SIMPLEX, 0.9, (0,255,0), 2) #show position of face
         
-    cv2.imshow("Pupil Detection With DLIB", frame)
+    cv2.imshow("EyeDetectionForAllFacesFoundDLIB", frame)
     key = cv2.waitKey(1)
     if key == 27: #esc key is pressed
         break

@@ -45,7 +45,7 @@ while True:
                                 np.int32)
         cv2.polylines(frame, [rightEyeTrack], True, (0,255,0), 2)
                 
-    cv2.imshow("Pupil Detection With DLIB", frame)
+    cv2.imshow("PrecisionEyeDectectionDLIB", frame)
     key = cv2.waitKey(1)
     if key == 27: #esc key is pressed
         break

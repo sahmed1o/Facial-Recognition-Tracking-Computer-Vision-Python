@@ -25,7 +25,7 @@ while True:
 
         cv2.waitKey(100) # short pause of r100 seconds
 
-    cv2.imshow("Eye Detection For Each Face With OpenCV", img);
+    cv2.imshow("EyeDetectionForAllFacesFoundOpenCV", img);
     key = cv2.waitKey(1)
     if key == 27: #esc key is pressed
         break

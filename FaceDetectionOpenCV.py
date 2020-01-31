@@ -18,7 +18,7 @@ while True:
         cv2.rectangle(img,(x,y),(x+w,y+h),(255,0,0),2) #draw rectangle on coordinates of face captured           
         cv2.waitKey(100) # short pause of r100 seconds
 
-    cv2.imshow("Face Detection With OpenCV", img);
+    cv2.imshow("FaceDetectionOpenCV", img);
     key = cv2.waitKey(1)
     if key == 27: #esc key is pressed
         break

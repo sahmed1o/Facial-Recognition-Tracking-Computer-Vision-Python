@@ -17,7 +17,7 @@ while True:
         x1, y1 = face.right(), face.bottom() # Bottom right coordinates of face in windows
         cv2.rectangle(frame, (x,y), (x1,y1), (0,255,0), 2) # form a rectangle based on previous two coordinates
                       
-    cv2.imshow("Face Detection With DLIB", frame)
+    cv2.imshow("FaceDetectionDlib", frame)
     key = cv2.waitKey(1)
     if key == 27: #esc key is pressed
         break

@@ -117,7 +117,7 @@ while True:
         cv2.rectangle(frame, (right_eye1x-40,right_eye1y-20), (right_eye2x+40,right_eye2y+20), (0,255,0), 2)
         cv2.rectangle(frame, (left_eye1x-40,left_eye1y-20), (left_eye2x+40,left_eye2y+20), (0,255,0), 2)
                 
-    cv2.imshow("Pupil Detection With DLIB", frame)
+    cv2.imshow("IrisTrackingRectDLIB", frame)
     key = cv2.waitKey(1)
     if key == 27: #esc key is pressed
         break

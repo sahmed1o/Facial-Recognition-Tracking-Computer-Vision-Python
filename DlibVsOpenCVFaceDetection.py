@@ -30,7 +30,7 @@ while True:
         cv2.rectangle(img, (x1,y1), (x2,y2), (0,255,0), 2) # form a rectangle based on previous two coordinates
         cv2.putText(img, 'DLIB Face Detection', (x1, y1-10), cv2.FONT_HERSHEY_SIMPLEX, 0.9, (0,255,0), 2) #show text
         
-    cv2.imshow("Face Detection Comparison OpenCV|DLIB", img);
+    cv2.imshow("DlibVsOpenCVFaceDetection", img);
     key = cv2.waitKey(1)
     if key == 27: #esc key is pressed
         break

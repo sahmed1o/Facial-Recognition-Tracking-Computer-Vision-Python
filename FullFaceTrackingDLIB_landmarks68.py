@@ -26,7 +26,7 @@ while True:
             y = poslandmarkpoints.part(p).y #y coordinate of landmark at p value
             cv2.circle(frame, (x,y), 3, (0, 255, 0), 2) #form a dot on each landmark position, DLIB tracks up to 68
         
-    cv2.imshow("Pupil Detection With DLIB", frame)
+    cv2.imshow("FullFaceTrackingDLIB_landmarks68", frame)
     key = cv2.waitKey(1)
     if key == 27: #esc key is pressed
         break

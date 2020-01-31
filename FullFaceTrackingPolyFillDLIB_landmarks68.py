@@ -123,7 +123,7 @@ while True:
             show_polyface(frame, poslandmarkpoints)
 
                 
-    cv2.imshow("Pupil Detection With DLIB", frame)
+    cv2.imshow("FullFaceTrackingPolyFillDLIB_landmarks68", frame)
     key = cv2.waitKey(1)
     if key == 27: #esc key is pressed
         break
