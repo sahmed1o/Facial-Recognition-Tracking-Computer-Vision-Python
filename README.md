@@ -15,7 +15,6 @@ A comparative assessment on computer recognition tracking libraries, specificall
 
 <strong>1. Download python 3 here, in this case it was python-3.6.4-amd64 for windows:</strong>
 https://www.python.org/downloads/release/python-364/
-Python installation Exe has been included under the Python3 Folder
 
 <strong> 2. To install python libraries on windows: </strong>
 <ul>
