@@ -18,7 +18,7 @@ IDLE
 https://www.python.org/downloads/release/python-364/
 Python installation Exe has been included under the Python3 Folder
 
-To install python libraries on windows:
+<strong> 2. To install python libraries on windows: </strong>
 <ul>
  	<li> Open up installation directory and run cmd on windows. 	</li>
  	<li> cd D:\Python3\Scripts 	</li>
@@ -26,7 +26,7 @@ To install python libraries on windows:
  	<li> pip install [LibraryName] 	</li>
 </ul>
 
-Install the following libraries:
+<strong> 3. Install the following libraries: </strong>
 <ul>
  	<li> OpenCV (pip3 install opencv-python) 	</li>
  	<li> numpy (pip install numpy) 	</li>
@@ -37,7 +37,7 @@ Install the following libraries:
 
 <hr>
 
-A few other examples have been included to compare the two libraries detection methods:
+<strong> A few other examples have been included to compare the two libraries detection methods: </strong>
 
 <br /> <b> 1. FullFaceTrackingPolyFillDLIB_landmarks68.py:  </b>
 
