@@ -6,13 +6,13 @@ A comparative assesment on computer recognition tracking libraries, specifically
 
 A few other examples have been included to compare the two libraries detection methods:
 
-<img src="images/EyeDetectionForAllFacesFoundDLIBIMG=EyeDetectionForAllFacesFoundOpenCV.png"  height="400" />
-
-<img src="images/FaceDetectionDlib=FaceDetectionOPENCV.png"  height="400" />
+<img src="images/FullFaceTrackingPolyFillDLIB_landmarks68IMG.png"  height="400" />
 
 <img src="images/FullFaceTrackingDLIB_landmarks68IMG.png"  height="400" />
 
-<img src="images/FullFaceTrackingPolyFillDLIB_landmarks68IMG.png"  height="400" />
+<img src="images/EyeDetectionForAllFacesFoundDLIBIMG=EyeDetectionForAllFacesFoundOpenCV.png"  height="400" />
+
+<img src="images/FaceDetectionDlib=FaceDetectionOPENCV.png"  height="400" />
 
 <img src="images/PrecisionEyeDectectionDLIBIMG.png"  height="400" />
 
