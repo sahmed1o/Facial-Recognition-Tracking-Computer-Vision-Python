@@ -7,24 +7,31 @@ A comparative assessment on computer recognition tracking libraries, specificall
 A few other examples have been included to compare the two libraries detection methods:
 
 FullFaceTrackingPolyFillDLIB_landmarks68.py:
+
 <img src="images/FullFaceTrackingPolyFillDLIB_landmarks68IMG.png"  height="400" />
 
 FullFaceTrackingDLIB_landmarks68.py:
+
 <img src="images/FullFaceTrackingDLIB_landmarks68IMG.png"  height="400" />
 
 EyeDetectionForAllFacesFoundDLIB.py and EyeDetectionForAllFacesFoundOpenCV.py:
+
 <img src="images/EyeDetectionForAllFacesFoundDLIBIMG=EyeDetectionForAllFacesFoundOpenCV.png"  height="400" />
 
 FaceDetectionDlib.py and FaceDetectionOPENCV.py:
+
 <img src="images/FaceDetectionDlib=FaceDetectionOPENCV.png"  height="400" />
 
 PrecisionEyeDectectionDLIB.py:
+
 <img src="images/PrecisionEyeDectectionDLIBIMG.png"  height="400" />
 
 IrisTrackingDLIB.py:
+
 <img src="images/IrisTrackingDLIBIMG.png"  height="400" />
 
 IrisTrackingRectDLIB.py:
+
 <img src="images/IrisTrackingRectDLIBIMG.png"  height="400" />
  
 
