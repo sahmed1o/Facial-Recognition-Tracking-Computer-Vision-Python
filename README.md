@@ -4,9 +4,10 @@ A comparative assessment on computer recognition tracking libraries, specificall
 
 <img src="images/DlibVsOpenCVFaceDetectionIMG.png"  height="400" />
 
+<hr>
+
 A few other examples have been included to compare the two libraries detection methods:
 
-<hr>
 <br /> <b> FullFaceTrackingPolyFillDLIB_landmarks68.py:  </b>
 
 <img src="images/FullFaceTrackingPolyFillDLIB_landmarks68IMG.png"  height="400" />
