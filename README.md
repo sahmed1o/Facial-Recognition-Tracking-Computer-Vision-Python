@@ -4,6 +4,37 @@ A comparative assessment on computer recognition tracking libraries, specificall
 
 <img src="images/DlibVsOpenCVFaceDetectionIMG.png"  height="400" />
 
+
+<hr>
+
+Python Editor Used:
+IDLE
+
+<hr>
+
+<h2>Installation: Setting Up Python 3.X with OpenCV and DLIB:</h2>
+
+<strong>1. Download python 3 here, in this case it was python-3.6.4-amd64 for windows:</strong>
+https://www.python.org/downloads/release/python-364/
+Python installation Exe has been included under the Python3 Folder
+
+To install python libraries on windows:
+<ul>
+ 	<li> Open up installation directory and run cmd on windows. 	</li>
+ 	<li> cd D:\Python3\Scripts 	</li>
+ 	<li> cmd on toolbar 	</li>
+ 	<li> pip install [LibraryName] 	</li>
+</ul>
+
+Install the following libraries:
+<ul>
+ 	<li> OpenCV (pip3 install opencv-python) 	</li>
+ 	<li> numpy (pip install numpy) 	</li>
+ 	<li> Pillow (pip install pillow) 	</li>
+ 	<li> CMAKE (pip install cmake - this is required to install dlib) 	</li>
+ 	<li> DLIB (pip install dlib) 	</li>
+</ul>
+
 <hr>
 
 A few other examples have been included to compare the two libraries detection methods:
