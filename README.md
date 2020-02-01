@@ -7,8 +7,7 @@ A comparative assessment on computer recognition tracking libraries, specificall
 
 <hr>
 
-Python Editor Used:
-IDLE
+<strong> Python Editor Used: IDLE </strong>
 
 <hr>
 
