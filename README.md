@@ -18,7 +18,7 @@ https://www.python.org/downloads/release/python-364/
 
 <strong> 2. To install python libraries on windows: </strong>
 <ul>
- 	<li> Open up installation directory and run cmd on windows. 	</li>
+ 	<li> Open up installation directory and run cmd on directory. 	</li>
  	<li> cd D:\Python3\Scripts 	</li>
  	<li> cmd on toolbar 	</li>
  	<li> pip install [LibraryName] 	</li>
